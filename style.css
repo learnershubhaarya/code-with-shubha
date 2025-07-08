@@ -67,3 +67,25 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.vision-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin: 1.5rem 0;
+}
+
+.vision-container img {
+    width: 35%;
+    border-radius: 10px;
+    max-width: 300px;
+    flex-shrink: 0;
+}
+
+.vision {
+    background-color: #e3f2fd;
+    border-left: 6px solid #2196f3;
+    padding: 1.5rem;
+    border-radius: 10px;
+    flex: 1;
+}

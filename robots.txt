@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learnershubhaarya.github.io/code-with-shubha/sitemap.xml
